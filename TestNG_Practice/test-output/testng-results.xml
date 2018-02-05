@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="NGprstice" duration-ms="40936" started-at="2018-02-05T10:28:51Z" finished-at="2018-02-05T10:29:32Z">
+    <groups>
+    </groups>
+    <test name="Prac" duration-ms="40936" started-at="2018-02-05T10:28:51Z" finished-at="2018-02-05T10:29:32Z">
+      <class name="TestNg.gmail">
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNg.gmail@2ef5e5e3]" name="f" duration-ms="40638" started-at="2018-02-05T15:58:52Z" finished-at="2018-02-05T15:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- TestNg.gmail -->
+      <class name="TestNg.Login_facebook">
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNg.Login_facebook@3a82f6ef]" name="f" duration-ms="40878" started-at="2018-02-05T15:58:52Z" finished-at="2018-02-05T15:59:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- TestNg.Login_facebook -->
+    </test> <!-- Prac -->
+  </suite> <!-- NGprstice -->
+</testng-results>

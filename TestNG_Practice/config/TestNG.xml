@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="NGprstice" parallel = "classes">
+	<test name="Prac">
+		<classes>
+			<class name="TestNg.Login_facebook" />
+			<class name="TestNg.gmail" />
+		</classes>
+	</test>
+</suite>
